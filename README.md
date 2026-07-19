@@ -88,3 +88,7 @@ The original Workshop FAQ allowed repacking, retexturing, and monetization. This
 MIT License — free to use, modify, and redistribute with attribution.
 
 Asset provenance is documented as far as currently available, but not every historical asset has a fully verified individual origin. Review [`CREDITS.md`](CREDITS.md) and the repository documentation before redistribution.
+
+## 🍪 Buy the Dragon a Biscuit
+
+If this project has helped keep MVS alive or saved you some development time, you can [support my open-source work through GitHub Sponsors](https://github.com/sponsors/DrakonWolfDev). Donations are never expected, but they help cover development, testing, hosting, and the occasional emergency biscuit.
